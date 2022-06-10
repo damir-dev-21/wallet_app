@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="./assets/Wallet.gif" width="100" height="100"/>
+<img src="./assets/Wallet.gif" width="200" height="400"/>
