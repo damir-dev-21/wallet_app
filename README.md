@@ -6,4 +6,4 @@ New Project for Cost Accounting
 
 Application for calculating cash and expenses
 
-<img src="./assets/Wallet.gif" width="400" height="600"/>
+<img src="./assets/Wallet.gif" width="400" height="800"/>
